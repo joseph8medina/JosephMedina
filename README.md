@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph8medina&label=Profile%20views&color=0e75b6&style=flat" alt="joseph8medina" /> </p>
 
-- 🔭 I’m currently working on my advanced python final project **Data Comparison using Data.Ca.Gov**
+- 🔭 I’m currently working on multiple projects for my Software Engineering and Digital Logic courses. **Data Comparison using Data.Ca.Gov**
 
 - 🌱 I’m currently learning **C++, Python, HTML and CSS**
 
