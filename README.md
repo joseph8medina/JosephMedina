@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Medina</h1>
-<h3 align="center">A college student at both Santa Monica College and Moreno Valley College</h3>
+<h3 align="center">I am a transfer student from the RCCD and currently attend Cal State Universite San Bernardino</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph8medina&label=Profile%20views&color=0e75b6&style=flat" alt="joseph8medina" /> </p>
 
